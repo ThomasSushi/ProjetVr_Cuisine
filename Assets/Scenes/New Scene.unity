@@ -1918,7 +1918,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d7a961ef5881e2f4e85f0ca3b8a606a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0
+  speed: 0.5
 --- !u!95 &1634248346
 Animator:
   serializedVersion: 4
@@ -2534,7 +2534,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d7a961ef5881e2f4e85f0ca3b8a606a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0
+  speed: 0.5
 --- !u!4 &1844357350 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ac13c0d40b6f4fc4d94e5c7c806e01af, type: 3}
